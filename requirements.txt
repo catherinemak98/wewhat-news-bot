@@ -1,4 +1,4 @@
-python-telegram-bot==20.7
+python-telegram-bot[job-queue]==20.7
 anthropic==0.21.0
 feedparser==6.0.13
 requests==2.31.0
