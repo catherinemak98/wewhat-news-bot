@@ -151,7 +151,7 @@ def fetch_reddit_trending():
     """Fetch Reddit trending discussions from Malaysian & relevant subreddits"""
     articles = []
     try:
-        subreddits = ["Malaysia", "singapore", "AskSEA", "startups", "technology", "business"]
+        subreddits = ["Malaysia", "bolehland", "singapore", "AskSEA", "startups", "technology", "business"]
         
         for subreddit in subreddits:
             try:
